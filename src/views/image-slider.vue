@@ -82,7 +82,7 @@
 import axios from 'axios';
 import $ from 'jquery';
 export default {
-  name: 'Home',
+  name: 'ImageSlider',
   data() {
     return {
       images: [],
@@ -139,7 +139,7 @@ export default {
         var fileURL = window.URL.createObjectURL(new Blob([response.data]));
         var fileLink = document.createElement('a');
         fileLink.href = fileURL;
-        fileLink.setAttribute('download', `${image.NAME}`);
+        fileLink.setAttribute('download', `${image.NAME}.jpg`);
         document.body.appendChild(fileLink);
         fileLink.click();
         document.body.removeChild(fileLink);
