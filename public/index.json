@@ -1,0 +1,47 @@
+[
+    {
+        "LINK": "img/lighted-buildings.jpg",
+        "NAME": "lighted-buildings",
+        "THUMBLINK": "img/lighted-buildings.jpg"
+    },
+    {
+        "LINK": "img/view-of-santorini.jpg",
+        "NAME": "view-of-santorini",
+        "THUMBLINK": "img/view-of-santorini.jpg"
+    },
+    {
+        "LINK": "img/zante.jpg",
+        "NAME": "zante",
+        "THUMBLINK": "img/zante.jpg"
+    },
+    {
+        "LINK": "img/calm-body-of-water.jpg",
+        "NAME": "calm-body-of-water",
+        "THUMBLINK": "img/calm-body-of-water.jpg"
+    },
+    {
+        "LINK": "img/mountain-scenery.jpg",
+        "NAME": "mountain-scenery",
+        "THUMBLINK": "img/mountain-scenery.jpg"
+    },
+    {
+        "LINK": "img/seaport.jpg",
+        "NAME": "seaport",
+        "THUMBLINK": "img/seaport.jpg"
+    },
+    {
+        "LINK": "img/view-of-elephant.jpg",
+        "NAME": "view-of-elephant",
+        "THUMBLINK": "img/view-of-elephant.jpg"
+    },
+    {
+        "LINK": "img/bridge.jpg",
+        "NAME": "bridge",
+        "THUMBLINK": "img/bridge.jpg"
+    },
+    {
+        "LINK": "img/nature1.jpg",
+        "NAME": "nature1",
+        "THUMBLINK": "img/nature1.jpg"
+    }
+]
